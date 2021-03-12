@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente estou procurando recolocação no mercado de trabalho
 
-- 👨‍💻 Me aprofundando na linguagem Javascript
+- 👨‍💻 Me aprofundando na linguagem Javascript e ReactJs
 
 - 📫 Contato: lucas.asilveira.sh@gmail.com
 <br/>

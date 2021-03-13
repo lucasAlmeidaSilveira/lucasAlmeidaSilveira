@@ -8,6 +8,8 @@
 
 - 📫 Contato: lucas.asilveira.sh@gmail.com
 <br/>
+ 
+![lucasAlmeidaSilveira' github stats](https://github-readme-stats.vercel.app/api?username=lucasAlmeidaSilveira&hide=[%22issues%22]&show_icons=true)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/>

@@ -15,11 +15,28 @@
 
 - 📫 Contato: lucas.asilveira.sh@gmail.com
 <br/>
- 
-![lucasAlmeidaSilveira' github stats](https://github-readme-stats.vercel.app/api?username=lucasAlmeidaSilveira&hide=[%22issues%22]&show_icons=true)
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=lucasAlmeidaSilveira&show_icons=true&hide_border=true&title_color=33ff&icon_color=ff3366&theme=radical"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasAlmeidaSilveira&layout=compact&hide_border=true&title_color=33ff&icon_color=ff3366&theme=radical"
+    />
+  </a>
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/lucasalmeidadasilveira/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
 <a href="https://www.fb.com/LucasxxAlmeida/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maykbrito" height="20" width="20" /></a>
 <a href="https://instagram.com/lucas_asilveira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
 </p>
+
+

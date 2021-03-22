@@ -12,7 +12,7 @@
 
 - 🔭 Atualmente estou procurando recolocação no mercado de trabalho
 - 👨‍💻 Me aprofundando na linguagem <strong>Javascript</strong> e <strong>ReactJs</strong>
-- 👨‍🎓 Cursando 1° Semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> | Uninter
+- 👨‍🎓 Cursando 1° Semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> | FMU
 - 📫 Contato: lucas.asilveira.sh@gmail.com
 <br/>
 

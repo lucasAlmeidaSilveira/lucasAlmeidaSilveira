@@ -34,9 +34,9 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/lucasalmeidadasilveira/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://www.fb.com/LucasxxAlmeida/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://instagram.com/lucas_asilveira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/lucasalmeidadasilveira/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucasalmeidadasilveira" height="20" width="20" /></a>
+<a href="https://www.fb.com/LucasxxAlmeida/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="lucasalmeidadasilveira" height="20" width="20" /></a>
+<a href="https://instagram.com/lucas_asilveira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lucasalmeidadasilveira" height="20" width="20" /></a>
 </p>
 
 

@@ -21,14 +21,14 @@
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=lucasAlmeidaSilveira&show_icons=true&hide_border=true&title_color=33ff&icon_color=33ff&theme=radical"
+      src="https://github-readme-stats.vercel.app/api?username=lucasAlmeidaSilveira&show_icons=true&hide_border=true&theme=default"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasAlmeidaSilveira&layout=compact&hide_border=true&title_color=33ff&icon_color=33ff&theme=radical"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasAlmeidaSilveira&layout=compact&hide_border=true&theme=default"
     />
   </a>
 </p>

@@ -13,7 +13,7 @@
 </p>
 
 - 🔭 Atualmente estou procurando recolocação no mercado de trabalho
-- 👨‍💻 Estudando ReactJS | Bootcamp Ignite | <a href="https://rocketseat.com.br/">Rocketseat</a>
+- 👨‍💻 Estudando ReactJS | Bootcamp Ignite | <a target="_blank" href="https://rocketseat.com.br/">Rocketseat</a>
 - 👨‍🎓 Cursando 1° Semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> | FMU
 - 📫 Contato: lucas.asilveira.sh@gmail.com
 <br/>

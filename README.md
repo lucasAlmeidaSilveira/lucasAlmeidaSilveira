@@ -14,7 +14,7 @@
 
 - 🔭 Atualmente estou procurando recolocação no mercado de trabalho
 - 👨‍💻 Estudando ReactJS | Bootcamp Ignite | <a href="https://rocketseat.com.br/">Rocketseat</a>
-- 👨‍🎓 Cursando 1° Semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> | FMU
+- 👨‍🎓 Cursando 2° Semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> | Descomplica
 - 📫 Contato: lucas.asilveira.sh@gmail.com
 <br/>
 

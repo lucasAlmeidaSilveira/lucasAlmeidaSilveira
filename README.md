@@ -1,6 +1,6 @@
 <h1 align="center">Seja bem-vindo! 👋</h1>
 <h1 align="center">Me chamo Lucas Almeida</h1>
-<h3 align="center">Desenvolvedor Front End | HTML | CSS | SASS | JAVASCRIPT</h3>
+<h3 align="center">Desenvolvedor Front End | UI Designer</h3>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/>

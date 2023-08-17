@@ -12,7 +12,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/>
 </p>
 
-- 🔭 Atualmente estou procurando recolocação no mercado de trabalho
+- 🔭 Gerente de E-commerce | Arte Própria
 - 👨‍💻 Estudando ReactJS | Bootcamp Ignite | <a href="https://rocketseat.com.br/">Rocketseat</a>
 - 👨‍🎓 Cursando 2° Semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> | Descomplica
 - 📫 Contato: lucas.asilveira.sh@gmail.com

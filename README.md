@@ -13,8 +13,8 @@
 </p>
 
 - 🔭 Gerente de E-commerce | Arte Própria
-- 👨‍💻 Estudando ReactJS | Bootcamp Ignite | <a href="https://rocketseat.com.br/">Rocketseat</a>
-- 👨‍🎓 Cursando 2° Semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> | Descomplica
+- 👨‍💻 Especializando na área de Ciência de Dados
+- 👨‍🎓 Cursando <strong>Ciência de Dados</strong> | IBM
 - 📫 Contato: lucas.asilveira.sh@gmail.com
 <br/>
 

@@ -1,6 +1,6 @@
 <h1 align="center">Seja bem-vindo! 👋</h1>
 <h1 align="center">Me chamo Lucas Almeida</h1>
-<h3 align="center">Desenvolvedor Front End | UI Designer</h3>
+<h3 align="center">Engenheiro de Software Fullstack | UI/UX Designer</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="30"/>

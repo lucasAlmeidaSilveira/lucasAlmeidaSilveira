@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="30"/>
-  <img src="https://cdn.aglty.io/bwql7jyk/Attachments/NewItems/image_20211214122557_0.png" alt="Nextjs" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Nextjs" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript"  width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/>
@@ -13,8 +13,8 @@
 </p>
 
 - 🔭 Gerente de E-commerce | Arte Própria
-- 👨‍💻 Especializando na área de Ciência de Dados
-- 👨‍🎓 Cursando <strong>Ciência de Dados</strong> | IBM
+- 👨‍💻 Especializando em Arquitetura de Software
+- 👨‍🎓 Cursando <strong>Engenharia de Software</strong> | Alura
 - 📫 Contato: lucas.asilveira.sh@gmail.com
 <br/>
 

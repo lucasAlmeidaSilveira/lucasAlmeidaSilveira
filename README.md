@@ -15,7 +15,7 @@
 
 - 🔭 Gerente de E-commerce | Arte Própria
 - 👨‍💻 Especializando em Arquitetura de Software
-- 👨‍🎓 Cursando <strong>Engenharia de Software</strong> | Alura
+- 👨‍🎓 Cursando <strong>IA e Automação Digital</strong> | UniFECAP (Rocketseat)
 - 📫 Contato: lucas.asilveira.sh@gmail.com
 <br/>
 

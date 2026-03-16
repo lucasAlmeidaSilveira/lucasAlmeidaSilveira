@@ -13,8 +13,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="30"/>
 </p>
 
-- 🔭 Gerente de E-commerce | Arte Própria
-- 👨‍💻 Especializando em Arquitetura de Software
+- 🔭 Head de Tecnologia | Arte Própria
+- 👨‍💻 Especializando em AI e Automação Digital
 - 👨‍🎓 Cursando <strong>IA e Automação Digital</strong> | Faculdade de Tecnologia Rocketseat
 - 📫 Contato: lucas.asilveira.sh@gmail.com
 <br/>
